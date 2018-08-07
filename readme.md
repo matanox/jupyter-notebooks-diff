@@ -1,6 +1,6 @@
 # a bash script diffing Jupyter notebooks
 
-The notebooks to diff should currently be right at your work directory (relative paths won't work till someone forks and replaces `basename` with something neater, and may end up in overwriting python files with the same base names as the input notebooks). Assumes you have the colordiff utility installed. <br>
+The notebooks to diff should currently be right at your work directory (relative paths may not work till someone forks and replaces `basename` with something neater, and may end up in overwriting python files having the same base names as the input notebooks). Assumes you already have the [colordiff](https://www.colordiff.org/) utility installed. <br>
 Tested on ubuntu. Should likely work on mac too.
 
 ### Usage: 
@@ -10,7 +10,7 @@ Tested on ubuntu. Should likely work on mac too.
 ```
 
 Contributions welcome:
-+ checking the notebooks files do exist
++ checking the notebook files do exist
 + rooting out the use of `basename`
 
 ### License
