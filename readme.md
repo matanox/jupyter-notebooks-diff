@@ -13,3 +13,6 @@ Tested on ubuntu. Should likely work on mac too.
 Contributions welcome:
 + checking the notebooks files do exist
 + rooting out the use of `basename`
+
+### License
+This code is provided as is without any warranty whatsoever. Licensed under the Apache License 2.0. 
