@@ -12,6 +12,6 @@ Tested on ubuntu. Should likely work on mac too.
 ### License
 This code is provided as is without any warranty whatsoever. Licensed under the Apache License 2.0. 
 
-###Contributions welcome:
+### Contributions welcome:
 + checking the notebook files do exist
 + rooting out the use of `basename`
