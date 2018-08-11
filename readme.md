@@ -15,3 +15,5 @@ This code is provided as is without any warranty whatsoever. Licensed under the 
 ### Contributions welcome:
 + checking the notebook files do exist
 + rooting out the use of `basename`
+
+See also https://github.com/jupyter/nbdime!
